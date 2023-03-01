@@ -1,0 +1,9 @@
+.illustrations {
+  padding-bottom: 120px;
+}
+
+.illustrations-list {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
